@@ -1,0 +1,12 @@
+﻿{
+  "username": "ginautouser@maildrop.cc",
+  "password": "Welcome1",
+  "username_valid": "autouser1@maildrop.cc",
+  "password_valid": "Welcome1",
+  "username_wrong": "incorrect@maildrop.cc",
+  "password_wrong": "wrongPass",
+  "purchase_order_number": "939199455469",
+  "dropdown_page_size": "12",
+  "sneaker_size_to_select": "9"
+
+}

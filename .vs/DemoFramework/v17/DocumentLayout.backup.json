@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\demoframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\demoframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\shoppingcartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\shoppingcartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\orderdetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\orderdetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|c:\\users\\yaelle\\source\\repos\\demoframework\\demoframework\\pageobjects\\checkoutcompletedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3368DAC-2DDE-4133-9BD5-A9F5B23A32D3}|DemoFramework\\DemoFramework.csproj|solutionrelative:demoframework\\pageobjects\\checkoutcompletedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoFramework",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\DemoFramework.csproj",
+              "RelativeDocumentMoniker": "DemoFramework\\DemoFramework.csproj",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\DemoFramework.csproj",
+              "RelativeToolTip": "DemoFramework\\DemoFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T07:15:10.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\App.config",
+              "RelativeDocumentMoniker": "DemoFramework\\App.config",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\App.config",
+              "RelativeToolTip": "DemoFramework\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-03T06:32:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonReader.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\JsonReader.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\utilities\\JsonReader.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\JsonReader.cs",
+              "RelativeToolTip": "DemoFramework\\utilities\\JsonReader.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:07:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testData.json",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\testData.json",
+              "RelativeDocumentMoniker": "DemoFramework\\utilities\\testData.json",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\testData.json",
+              "RelativeToolTip": "DemoFramework\\utilities\\testData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T01:52:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\tests\\UnitTest1.cs",
+              "RelativeToolTip": "DemoFramework\\tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:07:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\Base.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\utilities\\Base.cs",
+              "RelativeToolTip": "DemoFramework\\utilities\\Base.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:21:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\LoginPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:55:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\ProductsPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\ProductsPage.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:02:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckOutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\CheckOutPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\CheckOutPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\CheckOutPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\CheckOutPage.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv4gAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:02:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\ShoppingCartPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\ShoppingCartPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\ShoppingCartPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\ShoppingCartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:21:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckoutCompletedPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\CheckoutCompletedPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\CheckoutCompletedPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\CheckoutCompletedPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\CheckoutCompletedPage.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:23:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\OrderDetailsPage.cs",
+              "RelativeDocumentMoniker": "DemoFramework\\pageObjects\\OrderDetailsPage.cs",
+              "ToolTip": "C:\\Users\\Yaelle\\source\\repos\\DemoFramework\\DemoFramework\\pageObjects\\OrderDetailsPage.cs",
+              "RelativeToolTip": "DemoFramework\\pageObjects\\OrderDetailsPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:59:36.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
