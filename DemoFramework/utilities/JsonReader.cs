@@ -30,5 +30,10 @@ namespace DemoFramework.utilities
         {
             return extractData("purchase_order_number");
         }
+        public string GetValidUsername()
+        {
+            return extractData("username_valid");
+        }
+
     }
 }

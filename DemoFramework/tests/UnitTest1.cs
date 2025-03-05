@@ -106,13 +106,14 @@ namespace DemoFramework.tests
         [TestCase("autouser1@maildrop.cc", "Welcome1")]
         public void ValidLogin(string user, string pass)
         {
-            string username_valid = "autouser1@maildrop.cc"; 
+            JsonReader jsonreader = new JsonReader();
+            string user_valid = jsonreader.GetValidUsername();
             LoginPage loginPage = new LoginPage(getDriver());
             ProductsPage productsPage = loginPage.ValidLogin(user, pass);
             productsPage.WaitForLogoutDisplay();
             string userLogin = productsPage.getuserLogin().Text;
             TestContext.Progress.WriteLine(userLogin);
-            Assert.AreEqual(username_valid, userLogin);
+            Assert.AreEqual(user_valid, userLogin);
         }
 
 
