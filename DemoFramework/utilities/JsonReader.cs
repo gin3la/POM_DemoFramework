@@ -34,6 +34,10 @@ namespace DemoFramework.utilities
         {
             return extractData("username_valid");
         }
+        public string GetTextToSearch()
+        {
+            return extractData("q_to_search");
+        }
 
     }
 }

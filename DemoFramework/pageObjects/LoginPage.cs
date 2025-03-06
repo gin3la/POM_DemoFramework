@@ -22,6 +22,7 @@ namespace DemoFramework.pageObjects
         driver.FindElement(By.Id("Password")).SendKeys(password);
         driver.FindElement(By.CssSelector("input[value='Log in']")).Click();
         */
+
         public LoginPage(IWebDriver driver) 
         {
             this.driver = driver;
@@ -56,6 +57,24 @@ namespace DemoFramework.pageObjects
             return new ProductsPage(driver);
         }
 
+        [FindsBy(How = How.XPath, Using = "//input[@id='small-searchterms']")]
+        private IWebElement searchTextField;
+        public IWebElement getSearchTextField()
+        {
+            return searchTextField;
+        }
 
+        [FindsBy(How = How.CssSelector, Using = "input[class*='search-box-button']")]
+        private IWebElement searchButton;
+        public void ClickSearchBox()
+        {
+            searchButton.Click();
+        }
+        [FindsBy(How=How.CssSelector, Using = "#Q")]
+        private IWebElement searchedText;
+        public IWebElement getSearchedText()
+        {
+            return searchedText;
+        }
     }
 }
